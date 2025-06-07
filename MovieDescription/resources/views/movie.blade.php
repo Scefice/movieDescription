@@ -4,7 +4,7 @@
     <title>The Hunger Games</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <meta name="google-site-verification" content="JKCyk_N1_2hCc_ofegLm3_8H4repZC12ygkJIhbs7Do" />
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -43,7 +43,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Movie",
-      "name": "The Hunger Games",
+      "name": "The Hunger Game",
       "image": "https://yourapp.fly.dev/images/hunger-games.jpg",
       "description": "Katniss Everdeen volunteers to take her sister's place in a deadly televised competition called the Hunger Games.",
       "datePublished": "2012-03-23",
