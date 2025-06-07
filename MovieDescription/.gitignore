@@ -1,41 +1,29 @@
-# Ignore node modules
 /node_modules
-
-# Ignore Composer dependencies
-/vendor
-
-# Laravel logs and cache
+/public/hot
+/public/storage
 /storage/*.key
 /storage/*.log
 /storage/framework/cache/*
 /storage/framework/sessions/*
 /storage/framework/views/*
-/bootstrap/cache/*
+/bootstrap/cache/
 
-# Ignore IDE/editor files
+.env
+.phpunit.result.cache
+.phpunit.cache
+
+# Ignore IDE/editor configs
 *.idea
 *.vscode
 *.sublime*
 
-# Ignore system files
+# OS junk
 .DS_Store
 Thumbs.db
 
-# Ignore PHPUnit result
-.phpunit.result.cache
+# Composer dependencies
+/vendor
 
-# Ignore Laravel mix manifest and cache
-/public/hot
-/public/storage
-/storage/debugbar
-
-# Ignore environment files by default
-# But you're including .env on purpose, so uncomment or override this:
-#!.env
-
-# Allow tracking your database file
-!database/database.sqlite
-
-# Optional: ignore backups
+# Optional backups
 *.bak
 *.backup

@@ -16,12 +16,7 @@
 <body class="bg-light">
 <p>Test</p>
 <div class="container py-5">
-    <h1>Cast of The Hunger Games</h1>
-    <ul class="list-group mb-4">
-        <a href="/actor1" class="list-group-item">Jennifer Lawrence as Katniss Everdeen</a>
-        <a href="/actor2" class="list-group-item">Josh Hutcherson as Peeta Mellark</a>
-        <a href="/actor3" class="list-group-item">Liam Hemsworth as Gale Hawthorne</a>
-    </ul>
+    <h1>Jennifer Lawrence</h1>
     <a href="/" class="btn btn-primary">← Back to Movie</a>
 </div>
 </body>
