@@ -1,0 +1,103 @@
+
+# flyctl launch added from MovieDescription\.gitignore
+MovieDescription\**\*.log
+MovieDescription\**\.DS_Store
+MovieDescription\**\.env
+MovieDescription\**\.env.backup
+MovieDescription\**\.env.production
+MovieDescription\**\.phpactor.json
+MovieDescription\**\.phpunit.result.cache
+MovieDescription\.fleet
+MovieDescription\.idea
+MovieDescription\.nova
+MovieDescription\.phpunit.cache
+MovieDescription\.vscode
+MovieDescription\.zed
+MovieDescription\auth.json
+MovieDescription\node_modules
+MovieDescription\public\build
+MovieDescription\public\hot
+MovieDescription\public\storage
+MovieDescription\storage\*.key
+MovieDescription\storage\pail
+MovieDescription\vendor
+MovieDescription\**\Homestead.json
+MovieDescription\**\Homestead.yaml
+MovieDescription\**\npm-debug.log
+MovieDescription\**\Thumbs.db
+MovieDescription\**\yarn-error.log
+
+# flyctl launch added from MovieDescription\bootstrap\cache\.gitignore
+MovieDescription\bootstrap\cache\**\*
+!MovieDescription\bootstrap\cache\**\.gitignore
+
+# flyctl launch added from MovieDescription\database\.gitignore
+MovieDescription\database\**\*.sqlite*
+
+# flyctl launch added from MovieDescription\storage\app\.gitignore
+MovieDescription\storage\app\**\*
+!MovieDescription\storage\app\**\private
+!MovieDescription\storage\app\**\public
+!MovieDescription\storage\app\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\app\private\.gitignore
+MovieDescription\storage\app\private\**\*
+!MovieDescription\storage\app\private\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\app\public\.gitignore
+MovieDescription\storage\app\public\**\*
+!MovieDescription\storage\app\public\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\framework\.gitignore
+MovieDescription\storage\framework\**\compiled.php
+MovieDescription\storage\framework\**\config.php
+MovieDescription\storage\framework\**\down
+MovieDescription\storage\framework\**\events.scanned.php
+MovieDescription\storage\framework\**\maintenance.php
+MovieDescription\storage\framework\**\routes.php
+MovieDescription\storage\framework\**\routes.scanned.php
+MovieDescription\storage\framework\**\schedule-*
+MovieDescription\storage\framework\**\services.json
+
+# flyctl launch added from MovieDescription\storage\framework\cache\.gitignore
+MovieDescription\storage\framework\cache\**\*
+!MovieDescription\storage\framework\cache\**\data
+!MovieDescription\storage\framework\cache\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\framework\cache\data\.gitignore
+MovieDescription\storage\framework\cache\data\**\*
+!MovieDescription\storage\framework\cache\data\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\framework\sessions\.gitignore
+MovieDescription\storage\framework\sessions\**\*
+!MovieDescription\storage\framework\sessions\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\framework\testing\.gitignore
+MovieDescription\storage\framework\testing\**\*
+!MovieDescription\storage\framework\testing\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\framework\views\.gitignore
+MovieDescription\storage\framework\views\**\*
+!MovieDescription\storage\framework\views\**\.gitignore
+
+# flyctl launch added from MovieDescription\storage\logs\.gitignore
+MovieDescription\storage\logs\**\*
+!MovieDescription\storage\logs\**\.gitignore
+
+# flyctl launch added from MovieDescription\vendor\hamcrest\hamcrest-php\.gitignore
+MovieDescription\vendor\hamcrest\hamcrest-php\**\composer.lock
+MovieDescription\vendor\hamcrest\hamcrest-php\**\tests\.phpunit.result.cache
+MovieDescription\vendor\hamcrest\hamcrest-php\**\vendor
+
+# flyctl launch added from MovieDescription\vendor\mockery\mockery\docs\.gitignore
+MovieDescription\vendor\mockery\mockery\docs\**\_build
+
+# flyctl launch added from MovieDescription\vendor\psr\container\.gitignore
+MovieDescription\vendor\psr\container\**\composer.lock
+MovieDescription\vendor\psr\container\**\composer.phar
+MovieDescription\vendor\psr\container\vendor
+
+# flyctl launch added from MovieDescription\vendor\psr\event-dispatcher\.gitignore
+MovieDescription\vendor\psr\event-dispatcher\vendor
+MovieDescription\vendor\psr\event-dispatcher\**\composer.lock
+fly.toml
