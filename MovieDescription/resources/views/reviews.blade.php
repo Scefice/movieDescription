@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
-<head>
+<html><head>
     <title>Reviews – The Hunger Games</title>
-    <meta charset="UTF-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -32,54 +31,61 @@
     </style>
 
     <!-- Schema.org JSON-LD with multiple reviews -->
-    <script type="application/ld+json">
+   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "name": "The Hunger Games",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "7.2",
+    "reviewCount": "3",
+    "bestRating": "10"
+  },
+  "review": [
     {
-      "@context": "https://schema.org",
-      "@type": "Movie",
-      "name": "The Hunger Games",
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Roger Ebert"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "4",
-            "bestRating": "5"
-          },
-          "reviewBody": "A thrilling adaptation that delivers a sharp emotional edge and gripping action."
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rolling Stone"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "3.5",
-            "bestRating": "5"
-          },
-          "reviewBody": "The Hunger Games succeeds more often than it falters, thanks to Jennifer Lawrence’s incredible performance."
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "IGN"
-          },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "8",
-            "bestRating": "10"
-          },
-          "reviewBody": "A smart, exciting dystopian sci-fi film that remains true to its source material."
-        }
-      ]
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Roger Ebert"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4",
+        "bestRating": "5"
+      },
+      "reviewBody": "A thrilling adaptation that delivers a sharp emotional edge and gripping action."
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Rolling Stone"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "3.5",
+        "bestRating": "5"
+      },
+      "reviewBody": "The Hunger Games succeeds more often than it falters, thanks to Jennifer Lawrence’s incredible performance."
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "IGN"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "8",
+        "bestRating": "10"
+      },
+      "reviewBody": "A smart, exciting dystopian sci-fi film that remains true to its source material."
     }
-    </script>
+  ]
+}
+</script>
+
 </head>
 <body>
 
@@ -109,5 +115,6 @@
 
 </div>
 
-</body>
-</html>
+
+
+</body></html>
