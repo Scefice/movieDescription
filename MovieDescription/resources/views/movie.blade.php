@@ -18,7 +18,8 @@
         { "@type": "Person", "name": "Liam Hemsworth" }
       ],
       "datePublished": "2012-03-23",
-      "genre": ["Action", "Adventure", "Sci-Fi"]
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "image": "public/images/hunger-games.jpg",
     }
     </script>
 </head>
