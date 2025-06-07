@@ -31,11 +31,12 @@
     </style>
 
     <!-- Schema.org JSON-LD with multiple reviews -->
-   <script type="application/ld+json">
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Movie",
   "name": "The Hunger Games",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "7.2",
@@ -85,6 +86,7 @@
   ]
 }
 </script>
+
 
 </head>
 <body>
