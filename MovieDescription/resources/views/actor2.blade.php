@@ -40,7 +40,7 @@
 <main class="container py-5">
     <article>
         <h2>Josh Hutcherson as Peeta Mellark</h2>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Josh_Hutcherson_2015.jpg/440px-Josh_Hutcherson_2015.jpg" 
+        <img src="https://commons.wikimedia.org/wiki/Category:Josh_Hutcherson#/media/File:Josh_Hutcherson_SDCC_2015.jpg" 
              alt="Josh Hutcherson at a 2015 press event" class="img-fluid rounded mb-4" width="440" height="600">
         <p><strong>Josh Hutcherson</strong> is an American actor who portrayed <em>Peeta Mellark</em> in <strong>The Hunger Games</strong> series. As the compassionate and brave tribute from District 12, Peeta's deep bond with Katniss Everdeen and his strength under pressure make him a fan-favorite character in the franchise.</p>
 

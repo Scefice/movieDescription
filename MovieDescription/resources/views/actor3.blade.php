@@ -25,7 +25,7 @@
         "https://en.wikipedia.org/wiki/Liam_Hemsworth",
         "https://www.imdb.com/name/nm2955013/"
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Liam_Hemsworth_2019.jpg/440px-Liam_Hemsworth_2019.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Category:Liam_Hemsworth#/media/File:Hemsworth_Liam.jpg",
       "description": "Liam Hemsworth is an Australian actor known for his role as Gale Hawthorne in The Hunger Games film series."
     }
     </script>

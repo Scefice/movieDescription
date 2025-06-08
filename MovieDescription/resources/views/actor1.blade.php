@@ -41,7 +41,7 @@
 <main class="container py-5">
     <article>
         <h2>Jennifer Lawrence as Katniss Everdeen</h2>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jennifer_Lawrence_SDCC_2015.jpg/440px-Jennifer_Lawrence_SDCC_2015.jpg"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Jennifer_Lawrence_in_2016.jpg"
              alt="Jennifer Lawrence at San Diego Comic-Con 2015" class="img-fluid rounded mb-4" width="440" height="600">
 
         <p><strong>Jennifer Lawrence</strong> rose to international stardom with her iconic portrayal of <em>Katniss Everdeen</em> in <strong>The Hunger Games</strong> franchise. Her character, a skilled archer and reluctant hero, became a symbol of resistance and resilience in dystopian Panem.</p>

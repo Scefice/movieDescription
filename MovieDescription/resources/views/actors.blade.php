@@ -15,7 +15,7 @@
   "@context": "https://schema.org",
   "@type": "Movie",
   "name": "The Hunger Games",
-  "image": "public/images/hunger-games-poster.jpg",
+  "image": "public/images/hunger-games.jpg",
   "actor": [
     {
       "@type": "Person",
