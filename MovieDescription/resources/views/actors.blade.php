@@ -10,33 +10,35 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     
     <!-- Structured Data -->
-    <script type="application/ld+json">
+   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "name": "The Hunger Games",
+  "image": "public/images/hunger-games-poster.jpg",
+  "actor": [
     {
-      "@context": "https://schema.org",
-      "@type": "Movie",
-      "name": "The Hunger Games",
-      "actor": [
-        {
-          "@type": "Person",
-          "name": "Jennifer Lawrence",
-          "characterName": "Katniss Everdeen",
-          "worksFor": { "@type": "Organization", "name": "Lionsgate" }
-        },
-        {
-          "@type": "Person",
-          "name": "Josh Hutcherson",
-          "characterName": "Peeta Mellark",
-          "worksFor": { "@type": "Organization", "name": "Lionsgate" }
-        },
-        {
-          "@type": "Person",
-          "name": "Liam Hemsworth",
-          "characterName": "Gale Hawthorne",
-          "worksFor": { "@type": "Organization", "name": "Lionsgate" }
-        }
-      ]
+      "@type": "Person",
+      "name": "Jennifer Lawrence",
+      "characterName": "Katniss Everdeen",
+      "worksFor": { "@type": "Organization", "name": "Lionsgate" }
+    },
+    {
+      "@type": "Person",
+      "name": "Josh Hutcherson",
+      "characterName": "Peeta Mellark",
+      "worksFor": { "@type": "Organization", "name": "Lionsgate" }
+    },
+    {
+      "@type": "Person",
+      "name": "Liam Hemsworth",
+      "characterName": "Gale Hawthorne",
+      "worksFor": { "@type": "Organization", "name": "Lionsgate" }
     }
-    </script>
+  ]
+}
+</script>
+
 </head>
 <body class="bg-light">
 <header class="bg-dark text-white p-3">
